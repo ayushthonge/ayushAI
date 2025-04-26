@@ -1,0 +1,15 @@
+# Ignore secrets and data
+.env
+config.json
+*.pyc
+__pycache__/
+vector_db/
+data/raw/
+data/processed/
+data/by_contact/
+*.sqlite
+*.db
+*.log
+data/
+*.sqlite3
+*.bin
