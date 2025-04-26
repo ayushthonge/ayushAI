@@ -1,0 +1,8 @@
+{
+  "my_name": "Ayush",
+  "vector_db_dir": "C:/ayushai/vector_db",
+  "processed_dir": "C:/ayushai/data/processed",
+  "gemini_model": "gemini-2.0-flash",
+  "temperature": 0.7,
+  "top_k": 5
+}
